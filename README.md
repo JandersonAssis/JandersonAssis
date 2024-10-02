@@ -1,4 +1,7 @@
 <h1 align='left'> Hi, I’m Janderson Junio <h1>
+<p>A developer that makes things believes will need in the future</p>
+<p>All content in English(I hope), but my English is poor😄</p>
+<p>Wellcome and nice to meet you</p>
 
   
   
