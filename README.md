@@ -3,7 +3,7 @@
 <p align="left">All content in English(I hope), but my English is poor</p>
 <p align="left">Wellcome and nice to meet you</p>
 
-<a href="costadeassis.com.br"> Portifólio</a>
+<a href="https://costadeassis.com.br"> Portifólio</a>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
  <a href="https://linkedin.com/in/jandersonassis">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="Costadeassis.com.br">
+ <a href="https://Costadeassis.com.br">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/sr.costadeassis/">
